@@ -1,0 +1,67 @@
+.header{
+	background-color: red;
+	/*border: 5px solid black;*/
+	min-height: 80px;
+}
+
+.wrapper{
+	overflow: hidden;
+	border: 5px solid yellow;
+
+}
+/*.blog{
+    background-color: green;
+	min-height: 150px;
+	width: 60%;
+	float: left;*/
+
+.contact{
+	background-color: blue;
+	border: 2px solid black;
+	margin: 20px 20px;
+	min-height: 150px;
+	width: 30%;
+	float: left;
+}
+.footer{
+	background-color: black;
+	/*border: 5px solid red;*/
+	min-height: 100px;
+	/*clear: both;*/
+}
+
+.head{
+    background-color:green;
+    min-height: 80px;
+}
+
+.foot{
+    background-color:grey;
+    min-height: 100px;
+}
+
+
+
+/*h1{
+	color:green;
+	background-color:green;
+}
+h4{
+	color:black;
+}
+
+.head1{
+	color:skyblue;
+}
+
+#head1{
+	font-size: 15px;
+}
+
+h5{
+	color:orange;
+}
+
+/* calss used dot
+   ID used hashtag
+*/
